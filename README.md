@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,cycling,learning
 - 🌱 I’m currently learning html css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Phone no:9791906520,work email:annamalairaj24@gmail.com
+- 📫 How to reach me work email:annamalairaj24@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dolphins can actually recognize itself
 
