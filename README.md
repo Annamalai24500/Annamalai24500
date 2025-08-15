@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annamalai24500
 - 👀 I’m interested in coding,cycling,learning
-- 🌱 I’m currently learning html css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me work email:annamalairaj24@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dolphins can actually recognize itself
